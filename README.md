@@ -119,7 +119,7 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 
 Architecture Diagram
 
-![Galaxy Schema] (images/Galaxy Schema.png)
+![GalaxySchema] (images/Galaxy Schema.png)
 
 ---
 
