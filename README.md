@@ -119,23 +119,24 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 
 Architecture Diagram
 
-![GalaxySchema] (images/Galaxy Schema.png)
+<img width="2560" height="1440" alt="Galaxy Schema" src="https://github.com/user-attachments/assets/57a0096c-222f-4a38-a6b6-d83b551e039b" />
+
 
 ---
 
 SSIS Control Flow
 
-![STG_ControlFlow] (images/STG_ControlFlow.png)
-![DIM_ControlFlow] (images/DIM_ControlFlow.png)
-![FACT_ControlFlow] (images/FACT_ControlFlow.png)
+<img width="2560" height="1440" alt="STG_ControlFlow" src="https://github.com/user-attachments/assets/12da9c05-afde-4712-bb5b-200685b72f2c" />
+<img width="2560" height="1440" alt="DIM_ControlFlow" src="https://github.com/user-attachments/assets/85a243bb-28e6-4551-903e-921c44261659" />
+<img width="2560" height="1440" alt="FACT_ControlFlow" src="https://github.com/user-attachments/assets/2b2ecb9a-4375-4fe3-a696-1baf405c14b1" />
 
 ---
 
 SSIS Data Flow
 
-![STG_DataFlow] (images/STG_DataFlow.png)
-![DIM_DataFlow] (images/DIM_DataFlow.png)
-![Fact_DataFlow] (images/Fact_DataFlow.png)
+<img width="2560" height="1440" alt="STG_DataFlow" src="https://github.com/user-attachments/assets/fc872aff-695f-4dca-b864-886394370f9f" />
+<img width="2560" height="1440" alt="DIM_DataFlow" src="https://github.com/user-attachments/assets/e600b470-c99a-4632-b23d-9c9b690f3d45" />
+<img width="2560" height="1440" alt="Fact_DataFlow" src="https://github.com/user-attachments/assets/f63fc569-093a-4194-8fda-45c0a833ac33" />
 
 ---
 
