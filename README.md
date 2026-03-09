@@ -1,4 +1,4 @@
-AdventureWorks Data Warehouse – SSIS
+# AdventureWorks Data Warehouse – SSIS
 
 Overview
 
@@ -119,23 +119,23 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 
 Architecture Diagram
 
-"Galaxy Schema" (images/Galaxy Schema.png)
+![Galaxy Schema] (images/Galaxy Schema.png)
 
 ---
 
 SSIS Control Flow
 
-"STG_ControlFlow" (images/STG_ControlFlow.png)
-"DIM_ControlFlow" (images/DIM_ControlFlow.png)
-"FACT_ControlFlow" (images/FACT_ControlFlow.png)
+![STG_ControlFlow] (images/STG_ControlFlow.png)
+![DIM_ControlFlow] (images/DIM_ControlFlow.png)
+![FACT_ControlFlow] (images/FACT_ControlFlow.png)
 
 ---
 
 SSIS Data Flow
 
-"STG_DataFlow" (images/STG_DataFlow.png)
-"DIM_DataFlow" (images/DIM_DataFlow.png)
-"Fact_DataFlow" (images/Fact_DataFlow.png)
+![STG_DataFlow] (images/STG_DataFlow.png)
+![DIM_DataFlow] (images/DIM_DataFlow.png)
+![Fact_DataFlow] (images/Fact_DataFlow.png)
 
 ---
 
